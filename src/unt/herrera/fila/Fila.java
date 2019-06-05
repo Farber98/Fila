@@ -17,7 +17,8 @@ public class Fila implements IFila
 
     public Fila() 
     {
-        
+        this.primero = null;
+        this.ultimo = null;
     }
     
     
